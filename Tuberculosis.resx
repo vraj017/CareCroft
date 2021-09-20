@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox_overview.Text" xml:space="preserve">
+    <value>OVERVIEW:-
+A potentially serious infectious bacterial disease that mainly affects the lungs.
+The bacteria that cause TB are spread when an infected person coughs or sneezes.
+Most people infected with the bacteria that cause tuberculosis don't have symptoms. When symptoms do occur, they usually include a cough (sometimes blood-tinged), weight loss, night sweats and fever.
+Treatment isn't always required for those without symptoms. Patients with active symptoms will require a long course of treatment involving multiple antibiotics.
+
+Common
+More than 1 million cases per year (India)
+-&gt;Partly preventable by vaccine
+-&gt;Treatable by a medical professional
+-&gt;Spreads easily
+-&gt;Requires a medical diagnosis
+-&gt;Lab tests or imaging always required
+-&gt;Medium-term: resolves within months
+
+HOW IT SPREADS
+By airborne respiratory droplets (coughs or sneezes).
+By saliva (kissing or shared drinks).</value>
+  </data>
+  <data name="richtextbox_prevention.Text" xml:space="preserve">
+    <value>PREVENTION:-
+Tuberculosis prevention and control efforts rely primarily on the vaccination of infants and the detection and appropriate treatment of active cases. The World Health Organization (WHO) has achieved some success with improved treatment regimens, and a small decrease in case numbers.
+
+1)VACCINES:-
+he only available vaccine as of 2011 is Bacillus Calmette-Guérin (BCG). In children it decreases the risk of getting the infection by 20% and the risk of infection turning into active disease by nearly 60%.
+
+It is the most widely used vaccine worldwide, with more than 90% of all children being vaccinated. The immunity it induces decreases after about ten years. As tuberculosis is uncommon in most of Canada, the United Kingdom, and the United States, BCG is administered to only those people at high risk. Part of the reasoning against the use of the vaccine is that it makes the tuberculin skin test falsely positive, reducing the test's usefulness as a screening tool. A number of vaccines are in development as of 2011.
+
+
+2)PUBLIC HEALTH:-
+The World Health Organization (WHO) declared TB a "global health emergency" in 1993, and in 2006, the Stop TB Partnership developed a Global Plan to Stop Tuberculosis that aimed to save 14 million lives between its launch and 2015. A number of targets they set were not achieved by 2015, mostly due to the increase in HIV-associated tuberculosis and the emergence of multiple drug-resistant tuberculosis. A tuberculosis classification system developed by the American Thoracic Society is used primarily in public health programs.</value>
+  </data>
+  <data name="RichTextBox_symptoms.Text" xml:space="preserve">
+    <value>SYMPTOMS:-
+Requires a medical diagnosis
+Most people infected with the bacteria that cause tuberculosis don't have symptoms. When symptoms do occur, they usually include a cough (sometimes blood-tinged), weight loss, night sweats and fever.
+
+People may experience:
+Pain areas: in the chest
+Pain circumstances: can occur while breathing
+Cough: can be chronic or with blood
+Whole body: fatigue, fever, loss of appetite, malaise, night sweats, or sweating
+Also common: loss of muscle, phlegm, severe unintentional weight loss, shortness of breath, or swollen lymph nodes
+
+
+Pulmonary:--
+If a tuberculosis infection does become active, it most commonly involves the lungs (in about 90% of cases). Symptoms may include chest pain and a prolonged cough producing sputum. About 25% of people may not have any symptoms (i.e. they remain "asymptomatic"). Occasionally, people may cough up blood in small amounts, and in very rare cases, the infection may erode into the pulmonary artery or a Rasmussen's aneurysm, resulting in massive bleeding. Tuberculosis may become a chronic illness and cause extensive scarring in the upper lobes of the lungs. The upper lung lobes are more frequently affected by tuberculosis than the lower ones. The reason for this difference is not clear. It may be due to either better air flow,or poor lymph drainage within the upper lungs.
+
+
+Extrapulmonary:---
+n 15–20% of active cases, the infection spreads outside the lungs, causing other kinds of TB. These are collectively denoted as "extrapulmonary tuberculosis". Extrapulmonary TB occurs more commonly in people with a weakened immune system and young children. In those with HIV, this occurs in more than 50% of cases Notable extrapulmonary infection sites include the pleura (in tuberculous pleurisy), the central nervous system (in tuberculous meningitis), the lymphatic system (in scrofula of the neck), the genitourinary system (in urogenital tuberculosis), and the bones and joints (in Pott disease of the spine), among others. A potentially more serious, widespread form of TB is called "disseminated tuberculosis", it is also known as miliary tuberculosis. Miliary TB currently makes up about 10% of extrapulmonary cases.</value>
+  </data>
+  <data name="RichTextBox_treatment.Text" xml:space="preserve">
+    <value>TREATMENT:--
+Treatment consists of antibiotics
+Treatment isn't always required for those without symptoms. Patients with active symptoms will require a long course of treatment involving multiple antibiotics.
+
+Medications are the cornerstone of tuberculosis treatment. But treating TB takes much longer than treating other types of bacterial infections.
+
+For active tuberculosis, you must take antibiotics for at least six to nine months. The exact drugs and length of treatment depend on your age, overall health, possible drug resistance and the infection's location in the body.
+
+Most common TB drugs
+If you have latent tuberculosis, you may need to take only one or two types of TB drug. Active tuberculosis, particularly if it's a drug-resistant strain, will require several drugs at once. The most common medications used to treat tuberculosis include:
+
+Isoniazid
+Rifampin (Rifadin, Rimactane)
+Ethambutol (Myambutol)
+Pyrazinamide
+If you have drug-resistant TB, a combination of antibiotics called fluoroquinolones and injectable medications, such as amikacin or capreomycin (Capastat), are generally used for 20 to 30 months. Some types of TB are developing resistance to these medications as well.
+
+Some drugs may be used as add-on therapy to the current drug-resistant combination treatment, including:
+
+Bedaquiline (Sirturo)
+Linezolid (Zyvox)
+Medication side effects
+Serious side effects of TB drugs aren't common but can be dangerous when they do occur. All tuberculosis medications can be highly toxic to your liver. When taking these medications, call your doctor immediately if you experience any of the following:
+
+Nausea or vomiting
+Loss of appetite
+A yellow color to your skin (jaundice)
+Dark urine
+A fever that lasts three or more days and has no obvious cause
+Completing treatment is essential
+After a few weeks, you won't be contagious and you may start to feel better. It might be tempting to stop taking your TB drugs. But it is crucial that you finish the full course of therapy and take the medications exactly as prescribed by your doctor. Stopping treatment too soon or skipping doses can allow the bacteria that are still alive to become resistant to those drugs, leading to TB that is much more dangerous and difficult to treat.
+
+To help people stick with their treatment, a program called directly observed therapy (DOT) is recommended. In this approach, a health care worker administers your medication so that you don't have to remember to take it on your own.</value>
+  </data>
+  <data name="RichTextBox_Causes.Text" xml:space="preserve">
+    <value>CAUSES:-
+ There are 2 types of causes are there:
+1)Mycobacteria
+2) Risk Factor
+
+1)Mycobacteria
+The main cause of TB is Mycobacterium tuberculosis (MTB), a small, aerobic, nonmotile bacillus] The high lipid content of this pathogen accounts for many of its unique clinical characteristics. It divides every 16 to 20 hours, which is an extremely slow rate compared with other bacteria, which usually divide in less than an hour. Mycobacteria have an outer membrane lipid bilayer. If a Gram stain is performed, MTB either stains very weakly "Gram-positive" or does not retain dye as a result of the high lipid and mycolic acid content of its cell wall. MTB can withstand weak disinfectants and survive in a dry state for weeks. In nature, the bacterium can grow only within the cells of a host organism, but M. tuberculosis can be cultured in the laboratory.
+
+Using histological stains on expectorated samples from phlegm (also called "sputum"), scientists can identify MTB under a microscope. Since MTB retains certain stains even after being treated with acidic solution, it is classified as an acid-fast bacillus. The most common acid-fast staining techniques are the Ziehl–Neelsen stain and the Kinyoun stain, which dye acid-fast bacilli a bright red that stands out against a blue background. Auramine-rhodamine staining and fluorescence microscopy are also used.
+
+The M. tuberculosis complex (MTBC) includes four other TB-causing mycobacteria: M. bovis, M. africanum, M. canetti, and M. microti.M. africanum is not widespread, but it is a significant cause of tuberculosis in parts of Africa. M. bovis was once a common cause of tuberculosis, but the introduction of pasteurized milk has almost completely eliminated this as a public health problem in developed countries. M. canetti is rare and seems to be limited to the Horn of Africa, although a few cases have been seen in African emigrants. M. microti is also rare and is seen almost only in immunodeficient people, although its prevalence may be significantly underestimated.
+
+Other known pathogenic mycobacteria include M. leprae, M. avium, and M. kansasii. The latter two species are classified as "nontuberculous mycobacteria" (NTM). NTM cause neither TB nor leprosy, but they do cause lung diseases that resemble TB.
+
+2)Risk Factor
+A number of factors make people more susceptible to TB infections. The most important risk factor globally is HIV; 13% of all people with TB are infected by the virus. This is a particular problem in sub-Saharan Africa, where rates of HIV are high. Of people without HIV who are infected with tuberculosis, about 5–10% develop active disease during their lifetimes; in contrast, 30% of those coinfected with HIV develop the active disease.
+
+Tuberculosis is closely linked to both overcrowding and malnutrition, making it one of the principal diseases of poverty. Those at high risk thus include: people who inject illicit drugs, inhabitants and employees of locales where vulnerable people gather (e.g. prisons and homeless shelters), medically underprivileged and resource-poor communities, high-risk ethnic minorities, children in close contact with high-risk category patients, and health-care providers serving these patients.
+
+Chronic lung disease is another significant risk factor. Silicosis increases the risk about 30-fold. Those who smoke cigarettes have nearly twice the risk of TB compared to nonsmokers.
+
+Other disease states can also increase the risk of developing tuberculosis. These include alcoholism and diabetes mellitus (three-fold increase).
+
+Certain medications, such as corticosteroids and infliximab (an anti-αTNF monoclonal antibody), are other important risk factors, especially in the developed world.
+
+Genetic susceptibility also exists, for which the overall importance remains undefined.</value>
+  </data>
+  <data name="RichTextBox_other.Text" xml:space="preserve">
+    <value>Diagnosis:
+we can daignosis by two types:
+1) Active tuberculosis
+2)Latent tuberculosis
+
+
+
+1)ACTIVE TUBERCULOSIS:-
+Diagnosing active tuberculosis based only on signs and symptoms is difficult, as is diagnosing the disease in those who have a weakened immune system. A diagnosis of TB should, however, be considered in those with signs of lung disease or constitutional symptoms lasting longer than two weeks. A chest X-ray and multiple sputum cultures for acid-fast bacilli are typically part of the initial evaluation. Interferon-γ release assays and tuberculin skin tests are of little use in the developing world. Interferon gamma release assays (IGRA) have similar limitations in those with HIV.
+
+A definitive diagnosis of TB is made by identifying M. tuberculosis in a clinical sample (e.g., sputum, pus, or a tissue biopsy). However, the difficult culture process for this slow-growing organism can take two to six weeks for blood or sputum culture. Thus, treatment is often begun before cultures are confirmed.
+
+Nucleic acid amplification tests and adenosine deaminase testing may allow rapid diagnosis of TB. These tests, however, are not routinely recommended, as they rarely alter how a person is treated. Blood tests to detect antibodies are not specific or sensitive, so they are not recommended.
+
+2) LATENT TUBERCULOSIS:-
+The Mantoux tuberculin skin test is often used to screen people at high risk for TB. Those who have been previously immunized with the Bacille Calmette-Guerin vaccine may have a false-positive test result. The test may be falsely negative in those with sarcoidosis, Hodgkin's lymphoma, malnutrition, and most notably, active tuberculosis. Interferon gamma release assays, on a blood sample, are recommended in those who are positive to the Mantoux test. These are not affected by immunization or most environmental mycobacteria, so they generate fewer false-positive results. However, they are affected by M. szulgai, M. marinum, and M. kansasii. IGRAs may increase sensitivity when used in addition to the skin test, but may be less sensitive than the skin test when used alone.
+
+The US Preventive Services Task Force (USPSTF) has recommended screening people who are at high risk for latent tuberculosis with either tuberculin skin tests or interferon-gamma release assays. While some have recommend testing health care workers, evidence of benefit for this is poor as of 2019. The Centers for Disease Control and Prevention (CDC) stopped recommending yearly testing of health care workers without known exposure in 2019.</value>
+  </data>
+</root>

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox_maleria.Text" xml:space="preserve">
+    <value>OVERVIEW:--
+ A disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes.
+The severity of malaria varies based on the species of plasmodium.
+Symptoms are chills, fever and sweating, usually occurring a few weeks after being bitten.
+People travelling to areas where malaria is common typically take protective drugs before, during and after their trip. Treatment includes antimalarial drugs.</value>
+  </data>
+  <data name="RichTextBox_prevention.Text" xml:space="preserve">
+    <value>Prevention:-
+Methods used to prevent malaria include medications, mosquito elimination and the prevention of bites. 
+There is no vaccine for malaria. The presence of malaria in an area requires a combination of high human population density, high anopheles mosquito population density and high rates of transmission from humans to mosquitoes and from mosquitoes to humans.
+ If any of these is lowered sufficiently, the parasite eventually disappears from that area, as happened in North America, Europe, and parts of the Middle East. However, unless the parasite is eliminated from the whole world, it could re-establish if conditions revert to a combination that favors the parasite's reproduction.
+ Furthermore, the cost per person of eliminating anopheles mosquitoes rises with decreasing population density, making it economically unfeasible in some areas.
+
+Prevention of malaria may be more cost-effective than treatment of the disease in the long run, but the initial costs required are out of reach of many of the world's poorest people.
+ There is a wide difference in the costs of control (i.e. maintenance of low endemicity) and elimination programs between countries. For example, in China—whose government in 2010 announced a strategy to pursue malaria elimination in the Chinese provinces—the required investment is a small proportion of public expenditure on health.
+ In contrast, a similar program in Tanzania would cost an estimated one-fifth of the public health budget.
+
+In areas where malaria is common, children under five years old often have anemia, which is sometimes due to malaria.
+Giving children with anemia in these areas preventive antimalarial medication improves red blood cell levels slightly but does not affect the risk of death or need for hospitalization.
+
+There are three types from which we can control Maeria:
+1)Mosquite Control
+2)Other Methods
+3)Medications
+
+1) Mosquite Control:--
+Vector control refers to methods used to decrease malaria by reducing the levels of transmission by mosquitoes. For individual protection, the most effective insect repellents are based on DEET or picaridin.
+ Insecticide-treated mosquito nets (ITNs) and indoor residual spraying (IRS) have been shown highly effective in preventing malaria among children in areas where malaria is common.Prompt treatment of confirmed cases with artemisinin-based combination therapies (ACTs) may also reduce transmission.
+Mosquito nets help keep mosquitoes away from people and reduce infection rates and transmission of malaria. Nets are not a perfect barrier and are often treated with an insecticide designed to kill the mosquito before it has time to find a way past the net.
+ Insecticide-treated nets are estimated to be twice as effective as untreated nets, and offer greater than 70% protection compared with no net.
+ Between 2000 and 2008, the use of ITNs saved the lives of an estimated 250,000 infants in Sub-Saharan Africa. About 13% of households in Sub-Saharan countries owned ITNs in 2007 and 31% of African households were estimated to own at least one ITN in 2008. In 2000, 1.7 million (1.8%) African children living in areas of the world where malaria is common were protected by an ITN. 
+That number increased to 20.3 million (18.5%) African children using ITNs in 2007, leaving 89.6 million children unprotected and to 68% African children using mosquito nets in 2015. Most nets are impregnated with pyrethroids, a class of insecticides with low toxicity. They are most effective when used from dusk to dawn.
+ It is recommended to hang a large "bed net" above the center of a bed and either tuck the edges under the mattress or make sure it is large enough such that it touches the ground.
+
+2) Other Methods:--
+Community participation and health education strategies promoting awareness of malaria and the importance of control measures have been successfully used to reduce the incidence of malaria in some areas of the developing world.Recognizing the disease in the early stages can prevent the disease from becoming fatal. Education can also inform people to cover over areas of stagnant, still water, such as water tanks that are ideal breeding grounds for the parasite and mosquito, thus cutting down the risk of the transmission between people. 
+This is generally used in urban areas where there are large centers of population in a confined space and transmission would be most likely in these areas.
+Intermittent preventive therapy is another intervention that has been used successfully to control malaria in pregnant women and infants, and in preschool children where transmission is seasonal.
+
+3)Medication:--
+There are a number of medications that can help prevent or interrupt malaria in travelers to places where infection is common. Many of these medications are also used in treatment.
+In places where Plasmodium is resistant to one or more medications, three medications—mefloquine, doxycycline, or the combination of atovaquone/proguanil (Malarone)—are frequently used for prevention.Doxycycline and the atovaquone/proguanil are better tolerated while mefloquine is taken once a week. Areas of the world with chloroquine sensitive malaria are uncommon.
+
+
+The protective effect does not begin immediately, and people visiting areas where malaria exists usually start taking the drugs one to two weeks before they arrive, and continue taking them for four weeks after leaving (except for atovaquone/proguanil, which only needs to be started two days before and continued for seven days afterward).
+ The use of preventative drugs is often not practical for those who live in areas where malaria exists, and their use is usually only in pregnant women and short-term visitors. This is due to the cost of the drugs, side effects from long-term use, and the difficulty in obtaining anti-malarial drugs outside of wealthy nations.
+During pregnancy, medication to prevent malaria has been found to improve the weight of the baby at birth and decrease the risk of anemia in the mother. The use of preventative drugs where malaria-bearing mosquitoes are present may encourage the development of partial resistance.</value>
+  </data>
+  <data name="RichTextBox_Symptoms.Text" xml:space="preserve">
+    <value>Symptoms:--
+Requires a medical diagnosis
+Symptoms are chills, fever and sweating, usually occurring a few weeks after being bitten.
+
+People may experience:--
+Pain areas: in the abdomen or muscles
+Whole body: chills, fatigue, fever, night sweats, shivering, or sweating
+Gastrointestinal: diarrhoea, nausea, or vomiting
+Also common: fast heart rate, headache, mental confusion, or pallor</value>
+  </data>
+  <data name="RichTextBox_Treatment.Text" xml:space="preserve">
+    <value>TREATMENT:--
+Treatment consists of anti-parasitics
+People travelling to areas where malaria is common typically take protective drugs before, during and after their trip.
+ Treatment includes antimalarial drugs.
+
+Chloroquine phosphate.
+Other common antimalarial drugs include: Combination of atovaquone and proguanil (Malarone) Quinine sulfate (Qualaquin) with doxycycline (Vibramycin, Monodox, others) Mefloquine.
+
+Antibitic:-
+An advantage of using antibiotics already approved, like doxycycline, tigecycline, clindamycin, azithromycin or co-trimoxazole, as anti-malarial drugs is the reduced cost of clinical development. 
+Additionally, most of the antibiotics already approved are inexpensive and almost universally available.</value>
+  </data>
+  <data name="RichTextBox_Speciality.Text" xml:space="preserve">
+    <value>Speciality:--
+Infectious diseases specialists typically serve as consultants to other physicians in cases of complex infections, and often manage patients with HIV/AIDS and other forms of Immunodeficiency.
+ Although many common infections are treated by physicians without formal expertise in infectious diseases, specialists may be consulted for cases where an infection is difficult to diagnose or manage.
+ They may also be asked to help determine the cause of a fever of unknown origin.
+
+Specialists in infectious diseases can practice both in hospitals (inpatient) and clinics (outpatient). In hospitals, specialists in infectious diseases help ensure the timely diagnosis and treatment of acute infections by recommending the appropriate diagnostic tests to identify the source of the infection and by recommending appropriate management such as prescribing antibiotics to treat bacterial infections. For certain types of infections, involvement of specialists in infectious diseases may improve patient outcomes.
+ In clinics, specialists in infectious diseases can provide long-term care to patients with chronic infections such as HIV/AIDS.</value>
+  </data>
+  <data name="RichTextBox1_other.Text" xml:space="preserve">
+    <value>Diagnosis:--
+Owing to the non-specific nature of the presentation of symptoms, diagnosis of malaria in non-endemic areas requires a high degree of suspicion, which might be elicited by any of the following: recent travel history, enlarged spleen, fever, low number of platelets in the blood, and higher-than-normal levels of bilirubin in the blood combined with a normal level of white blood cells. Reports in 2016 and 2017 from countries where malaria is common suggest high levels of over diagnosis due to insufficient or inaccurate laboratory testing.
+Malaria is usually confirmed by the microscopic examination of blood films or by antigen-based rapid diagnostic tests (RDT).
+In some areas, RDTs must be able to distinguish whether the malaria symptoms are caused by Plasmodium falciparum or by other species of parasites since treatment strategies could differ for non-P. falciparum infections.
+ Microscopy is the most commonly used method to detect the malarial parasite—about 165 million blood films were examined for malaria in 2010.
+ Despite its widespread usage, diagnosis by microscopy suffers from two main drawbacks: many settings (especially rural) are not equipped to perform the test, and the accuracy of the results depends on both the skill of the person examining the blood film and the levels of the parasite in the blood. The sensitivity of blood films ranges from 75–90% in optimum conditions, to as low as 50%. Commercially available RDTs are often more accurate than blood films at predicting the presence of malaria parasites, but they are widely variable in diagnostic sensitivity and specificity depending on manufacturer, and are unable to tell how many parasites are present.
+
+In regions where laboratory tests are readily available, malaria should be suspected, and tested for, in any unwell person who has been in an area where malaria is endemic. In areas that cannot afford laboratory diagnostic tests, it has become common to use only a history of fever as the indication to treat for malaria—thus the common teaching "fever equals malaria unless proven otherwise". A drawback of this practice is overdiagnosis of malaria and mismanagement of non-malarial fever, which wastes limited resources, erodes confidence in the health care system, and contributes to drug resistance. Although polymerase chain reaction-based tests have been developed, they are not widely used in areas where malaria is common as of 2012, due to their complexity.
+
+
+
+Classification
+Malaria is classified into either "severe" or "uncomplicated" by the World Health Organization (WHO).It is deemed severe when any of the following criteria are present, otherwise it is considered uncomplicated.
+-&gt;Decreased consciousness
+-&gt;Significant weakness such that the person is unable to walk
+-&gt;Inability to feed
+-&gt;Two or more convulsions
+-&gt;Low blood pressure (less than 70 mmHg in adults and 50 mmHg in children)
+-&gt;Breathing problems
+-&gt;Circulatory shock
+-&gt;Kidney failure or hemoglobin in the urine
+-&gt;Bleeding problems, or hemoglobin less than 50 g/L (5 g/dL)
+-&gt;Pulmonary oedema
+-&gt;Blood glucose less than 2.2 mmol/L (40 mg/dL)
+-&gt;Acidosis or lactate levels of greater than 5 mmol/L
+-&gt;A parasite level in the blood of greater than 100,000 per microlitre (µL) in low-intensity transmission areas, or 250,000 per µL in high-intensity transmission areas
+Cerebral malaria is defined as a severe P. falciparum-malaria presenting with neurological symptoms, including coma (with a Glasgow coma scale less than 11, or a Blantyre coma scale less than 3), or with a coma that lasts longer than 30 minutes after a seizure.</value>
+  </data>
+</root>

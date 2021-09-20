@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox_overview.Text" xml:space="preserve">
+    <value>OVERVIEW:--
+A mosquito-borne viral disease occurring in tropical and subtropical areas.
+Those who become infected with the virus a second time are at a significantly greater risk of developing severe disease.
+Symptoms include high fever, headache, rash and muscle and joint pain. In severe cases there is serious bleeding and shock, which can be life threatening.
+Treatment includes fluids and pain relievers. Severe cases require hospital care.</value>
+  </data>
+  <data name="RichTextBox_prevention.Text" xml:space="preserve">
+    <value>Prevention:--
+Prevention depends on control of and protection from the bites of the mosquito that transmits itThe World Health Organization recommends an Integrated Vector Control program consisting of five elements:
+1)Advocacy, social mobilization and legislation to ensure that public health bodies and communities are strengthened;
+2)Collaboration between the health and other sectors (public and private);
+3)An integrated approach to disease control to maximize the use of resources;
+4)Evidence-based decision making to ensure any interventions are targeted appropriately; and
+5)Capacity-building to ensure an adequate response to the local situation.
+
+The primary method of controlling A. aegypti is by eliminating its habitats.This is done by getting rid of open sources of water, or if this is not possible, by adding insecticides or biological control agents to these areas.Generalized spraying with organophosphate or pyrethroid insecticides, while sometimes done, is not thought to be effective.Reducing open collections of water through environmental modification is the preferred method of control, given the concerns of negative health effects from insecticides and greater logistical difficulties with control agents.People can prevent mosquito bites by wearing clothing that fully covers the skin, using mosquito netting while resting, and/or the application of insect repellent (DEET being the most effective).While these measures can be an effective means of reducing an individual's risk of exposure, they do little in terms of mitigating the frequency of outbreaks, which appear to be on the rise in some areas, probably due to urbanization increasing the habitat of A. aegypti.he range of the disease also appears to be expanding possibly due to climate change.
+
+Vaccine:-
+In 2016 a partially effective vaccine for dengue fever became commercially available in the Philippines and Indonesia.It has been approved for use by Mexico, Brazil, El Salvador, Costa Rica, Singapore, Paraguay, much of Europe, and the United States.The vaccine is only recommended in individuals who have had a prior dengue infection or in populations where most (&gt;80%) of people have been infected by age 9 In those who have not had a prior infection there is evidence it may worsen subsequent infections.
+The vaccine is produced by Sanofi and goes by the brand name Dengvaxia.It is based on a weakened combination of the yellow fever virus and each of the four dengue serotypes.Studies of the vaccine found it was 66% effective and prevented more than 80 to 90% of severe cases.[59] This is less than wished for by some. In Indonesia it costs about US$207 for the recommended three doses.
+
+Given the limitations of the current vaccine, research on vaccines continues, and the fifth serotype may be factored in.One of the concerns is that a vaccine could increase the risk of severe disease through antibody-dependent enhancement (ADE)The ideal vaccine is safe, effective after one or two injections, covers all serotypes, does not contribute to ADE, is easily transported and stored, and is both affordable and cost-effective.
+
+
+Anti-dengue day:--
+International Anti-Dengue Day is observed every year on 15 June.he idea was first agreed upon in 2010 with the first event held in Jakarta, Indonesia in 2011.Further events were held in 2012 in Yangon, Myanmar and in 2013 in Vietnam.Goals are to increase public awareness about dengue, mobilize resources for its prevention and control and, to demonstrate the Asian region's commitment in tackling the disease.</value>
+  </data>
+  <data name="RichTextBox_symptoms.Text" xml:space="preserve">
+    <value>SYMPTOMS:--
+Requires a medical diagnosis
+Symptoms include high fever, headache, rash and muscle and joint pain. In severe cases there is serious bleeding and shock, which can be life threatening.
+
+
+People may experience:
+Pain areas: in the abdomen, back, back of the eyes, bones, joints, or muscles
+Whole body: chills, fatigue, fever, or loss of appetite
+Gastrointestinal: nausea or vomiting
+Skin: rashes or red spots
+Also common: easy bruising or headache
+</value>
+  </data>
+  <data name="RichTextBox_treatment.Text" xml:space="preserve">
+    <value>Treatment
+Apart from attempts to control the spread of the Aedes mosquito there are ongoing efforts to develop antiviral drugs that would be used to treat attacks of dengue fever and prevent severe complications.Discovery of the structure of the viral proteins may aid the development of effective drugs.There are several plausible targets. The first approach is inhibition of the viral RNA-dependent RNA polymerase (coded by NS5), which copies the viral genetic material, with nucleoside analogs. Secondly, it may be possible to develop specific inhibitors of the viral protease (coded by NS3), which splices viral proteins.Finally, it may be possible to develop entry inhibitors, which stop the virus entering cells, or inhibitors of the 5′ capping process, which is required for viral replication.
+
+SUPPORTIVE CARE:--
+Fulid repaclement:--
+For patients with DSS and the 30% of non-shocked dengue patients who require intravenous fluid therapy, a range of solutions is available for plasma volume support. Crystalloid solutions, such as normal 0·9% saline or Ringer's lactate, are the ones most commonly used.
+
+CAN BE SELF-HEALING
+Dengue is a virus, so there is no specific treatment or cure. However, intervention can help, depending on how severe the disease is. For milder forms, treatment includes: Preventing dehydration: A high fever and vomiting can dehydrate the body.
+
+ORAL REHYDRATION THERAPY:--
+Oral rehydration therapy is recommended for patients with moderate dehydration caused by high fever and vomiting. Patients with known or suspected dengue fever should have their platelet count and hematocrit measured daily from the third day of illness until 1-2 days after defervescence.
+
+IV FULID:-
+For patients with DSS and the 30% of non-shocked dengue patients who require intravenous fluid therapy, a range of solutions is available for plasma volume support. Crystalloid solutions, such as normal 0·9% saline or Ringer's lactate, are the ones most commonly used.
+
+
+
+MEDICATION:-
+ANALGESIC:
+Bed rest and mild analgesic-antipyretic therapy are often helpful in relieving lethargy, malaise, and fever associated with the disease. Acetaminophen (paracetamol) is recommended for treatment of pain and fever. Aspirin, other salicylates, and nonsteroidal anti-inflammatory drugs (NSAIDs) should be avoided.</value>
+  </data>
+  <data name="RichTextBox_Causes.Text" xml:space="preserve">
+    <value>CAUSE:
+1)VIROLOGY:
+Dengue fever virus (DENV) is an RNA virus of the family Flaviviridae; genus Flavivirus. Other members of the same genus include yellow fever virus, West Nile virus, Zika virus, St. Louis encephalitis virus, Japanese encephalitis virus, tick-borne encephalitis virus, Kyasanur forest disease virus, and Omsk hemorrhagic fever virus.
+Most are transmitted by arthropods (mosquitos or ticks), and are therefore also referred to as arboviruses (arthropod-borne viruses).
+
+The dengue virus genome (genetic material) contains about 11,000 nucleotide bases, which code for the three different types of protein molecules (C, prM and E) that form the virus particle and seven other non-structural protein molecules (NS1, NS2a, NS2b, NS3, NS4a, NS4b, NS5) that are found in infected host cells only and are required for replication of the virus. There are fivestrains of the virus, called serotypes, of which the first four are referred to as DENV-1, DENV-2, DENV-3 and DENV-4.The fifth type was announced in 2013. The distinctions between the serotypes are based on their antigenicity.
+
+2)TRANSMISSION:-
+Dengue virus is primarily transmitted by Aedes mosquitos, particularly A. aegypti.These mosquitos usually live between the latitudes of 35° North and 35° South below an elevation of 1,000 metres (3,300 ft).They typically bite during the early morning and in the evening, but they may bite and thus spread infection at any time of day.Other Aedes species that transmit the disease include A. albopictus, A. polynesiensis and A. scutellaris.Humans are the primary host of the virus,but it also circulates in nonhuman primates.n infection can be acquired via a single bite. A female mosquito that takes a blood meal from a person infected with dengue fever, during the initial 2- to 10-day febrile period, becomes itself infected with the virus in the cells lining its gut.bout 8–10 days later, the virus spreads to other tissues including the mosquito's salivary glands and is subsequently released into its saliva. The virus seems to have no detrimental effect on the mosquito, which remains infected for life.Aedes aegypti is particularly involved, as it prefers to lay its eggs in artificial water containers, to live in close proximity to humans, and to feed on people rather than other vertebrates.
+
+Dengue can also be transmitted via infected blood products and through organ donation.n countries such as Singapore, where dengue is endemic, the risk is estimated to be between 1.6 and 6 per 10,000 transfusions.Vertical transmission (from mother to child) during pregnancy or at birth has been reported. Other person-to-person modes of transmission, including sexual transmission, have also been reported, but are very unusual.he genetic variation in dengue viruses is region specific, suggestive that establishment into new territories is relatively infrequent, despite dengue emerging in new regions in recent decades.
+
+3)PREDISPOSTION:--
+evere disease is more common in babies and young children, and in contrast to many other infections, it is more common in children who are relatively well nourished.Other risk factors for severe disease include female sex, high body mass index, and viral load. While each serotype can cause the full spectrum of disease, virus strain is a risk factor. Infection with one serotype is thought to produce lifelong immunity to that type, but only short-term protection against the other three. The risk of severe disease from secondary infection increases if someone previously exposed to serotype DENV-1 contracts serotype DENV-2 or DENV-3, or if someone previously exposed to DENV-3 acquires DENV-2. Dengue can be life-threatening in people with chronic diseases such as diabetes and asthma.
+Polymorphisms (normal variations) in particular genes have been linked with an increased risk of severe dengue complications. Examples include the genes coding for the proteins TNFα, mannan-binding lectin, CTLA4, TGFβ, DC-SIGN, PLCE1, and particular forms of human leukocyte antigen from gene variations of HLA-B. A common genetic abnormality, especially in Africans, known as glucose-6-phosphate dehydrogenase deficiency, appears to increase the risk. Polymorphisms in the genes for the vitamin D receptor and FcγR seem to offer protection against severe disease in secondary dengue infection.</value>
+  </data>
+  <data name="RichTextBox_other.Text" xml:space="preserve">
+    <value>OTHER:-
+An estimated 400 million dengue infections occur worldwide each year, with about 96 million resulting in illness. Most cases occur in tropical areas of the world, with the greatest risk occurring in:
+
+&gt;The Indian subcontinent
+&gt;Southeast Asia
+&gt;Southern China
+&gt;Taiwan
+&gt;The Pacific Islands
+&gt;The Caribbean (except Cuba and the Cayman Islands)
+&gt;Mexico
+&gt;Africa
+&gt;Central and South America (except Chile, Paraguay, and Argentina)
+Most cases in the United States occur in people who contracted the infection while traveling abroad. But the risk is increasing for people living along the Texas-Mexico border and in other parts of the southern United States. In 2014, an outbreak of dengue fever was identified in Hawaii with other outbreaks in 2013 in Brownsville, Texas and Key West, Fla.
+
+Dengue fever is transmitted by the bite of an Aedes mosquito infected with a dengue virus. The mosquito becomes infected when it bites a person with dengue virus in their blood. It can’t be spread directly from one person to another person.
+
+Diagnosing Dengue Fever
+Doctors can diagnose dengue infection with a blood test to check for the virus or antibodies to it. If you become sick after traveling to a tropical area, let your doctor know. This will allow your doctor to evaluate the possibility that your symptoms were caused by a dengue infection.
+
+</value>
+  </data>
+</root>

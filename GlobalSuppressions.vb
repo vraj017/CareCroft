@@ -1,0 +1,66 @@
+﻿' This file is used by Code Analysis to maintain SuppressMessage
+' attributes that are applied to this project.
+' Project-level suppressions either have no target or are given
+' a specific target and scoped to a namespace, type, member, etc.
+
+Imports System.Diagnostics.CodeAnalysis
+
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofPatient.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1307:Specify StringComparison", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofPatient.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofPatient.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofPatient.usernameExist(System.String)~System.Boolean")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofPatient.RoundButton1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginforPatient.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginforPatient.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginforPatient.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginforPatient.TextBoxpassword_Enter(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginforPatient.TextBoxusername_Enter(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.LoginforDoctor.TextBoxpassword_Enter(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.LoginforDoctor.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.LoginforDoctor.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.LoginforDoctor.Button2Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1304:Specify CultureInfo", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.LoginforDoctor.TextBoxusername_Enter(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.ApplicationMainForm.RoundButton_treatment_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.ApplicationMainForm.RoundButton_lab_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.ApplicationMainForm.RoundButton_hospital_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Cardiovascular.Button2_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Cardiovascular.home_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.RoundButton.OnPaint(System.Windows.Forms.PaintEventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Dengue.Button2_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.diabetes.home_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.diabetes.Button2_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Hospital.Button1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Usage", "CA2234:Pass system uri objects instead of strings", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Hospital.Labouratory_Load(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Hospital.Labouratory_Load(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Hospital.btn_Labouratory_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Hospital.btn_Treatment_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.influenza.Button2_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.influenza.home_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Labouratory.Button1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Usage", "CA2234:Pass system uri objects instead of strings", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Labouratory.Labouratory_Load(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Labouratory.btn_Hospital_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Labouratory.btn_Treatment_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginoption.loginforpatient_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.loginoption.loginfordoctor_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.maleria.Button1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.maleria.home_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Usage", "CA2234:Pass system uri objects instead of strings", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Search_Disease.Search_Disease_Load(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Search_Disease.Search_Disease_Load(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Search_Disease.Button1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1303:Do not pass literals as localized parameters", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofDoctor.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Globalization", "CA1307:Specify StringComparison", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofDoctor.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofDoctor.ButtonSignup_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofDoctor.usernameExist(System.String)~System.Boolean")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.SignUpofDoctor.RoundButton1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.Button1_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.btn_Labouratory_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.btn_Hospital_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.maleria_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.dengue_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.tb_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.diab_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.influenza_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.car_btn_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Treatment.Button_more_disease_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Tuberculosis.home_Click(System.Object,System.EventArgs)")>
+<Assembly: SuppressMessage("Reliability", "CA2000:Dispose objects before losing scope", Justification:="<Pending>", Scope:="member", Target:="~M:Carecroft.Tuberculosis.Button2_Click(System.Object,System.EventArgs)")>

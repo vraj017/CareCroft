@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox_overview.Text" xml:space="preserve">
+    <value>OVERVIEW:--
+A common viral infection that can be deadly, especially in high-risk groups.
+The flu attacks the lungs, nose and throat. Young children, older adults, pregnant women and people with chronic disease or weak immune systems are at high risk.
+
+For most people, influenza resolves on its own. But sometimes, influenza and its complications can be deadly. People at higher risk of developing flu complications include:
+
+Young children under age 5, and especially those under 12 months
+Adults older than age 65
+Residents of nursing homes and other long-term care facilities
+Pregnant women and women up to two weeks postpartum
+People with weakened immune systems
+People who have chronic illnesses, such as asthma, heart disease, kidney disease, liver disease and diabetes
+People who are very obese, with a body mass index (BMI) of 40 or higher
+Though the annual influenza vaccine isn't 100 percent effective, it's still your best defense against the flu.</value>
+  </data>
+  <data name="RichTextBox_prevention.Text" xml:space="preserve">
+    <value>PREVENTION:--
+There are 2 Types of prevention:-
+1)vaccination
+2)infection control
+
+1)VACCINATION:
+The influenza vaccine is recommended by the World Health Organization (WHO) for high-risk groups, such as pregnant women, children aged less than five years, the elderly, health care workers, and people who have chronic illnesses such as HIV/AIDS, asthma, diabetes, heart disease, or are immunocompromised among others. The United States Centers for Disease Control and Prevention (CDC) recommends the influenza vaccine for those aged six months or older who do not have contraindications.In healthy adults it is modestly effective in decreasing the amount of influenza-like symptoms in a population. In healthy children over the age of two years, the vaccine reduces the chances of getting influenza by around two-thirds, while it has not been well studied in children under two years. In those with chronic obstructive pulmonary disease vaccination reduces exacerbations, it is not clear if it reduces asthma exacerbations. Evidence supports a lower rate of influenza-like illness in many groups who are immunocompromised such as those with: HIV/AIDS, cancer, and post organ transplant. In those at high risk immunization may reduce the risk of heart disease. Whether immunizing health care workers affects patient outcomes is controversial with some reviews finding insufficient evidence and others finding tentative evidence.
+
+Due to the high mutation rate of the virus, a particular influenza vaccine usually confers protection for no more than a few years. Each year, the World Health Organization predicts which strains of the virus are most likely to be circulating in the next year (see Historical annual reformulations of the influenza vaccine), allowing pharmaceutical companies to develop vaccines that will provide the best immunity against these strains. The vaccine is reformulated each season for a few specific flu strains but does not include all the strains active in the world during that season. It takes about six months for the manufacturers to formulate and produce the millions of doses required to deal with the seasonal epidemics; occasionally, a new or overlooked strain becomes prominent during that time. It is also possible to get infected just before vaccination and get sick with the strain that the vaccine is supposed to prevent, as the vaccine takes about two weeks to become effective. Vaccines can cause the immune system to react as if the body were actually being infected, and general infection symptoms (many cold and flu symptoms are just general infection symptoms) can appear, though these symptoms are usually not as severe or long-lasting as influenza. The most dangerous adverse effect is a severe allergic reaction to either the virus material itself or residues from the hen eggs used to grow the influenza; however, these reactions are extremely rare.
+
+A 2018 Cochrane review of children in good general health found that the live immunization seemed to lower the risk of getting influenza for the season from 18% to 4%. The inactivated vaccine seemed to lower the risk of getting flu for the season from 30% to 11%. Not enough data was available to draw definite conclusions about serious complications such as pneumonia or hospitalization.
+
+For healthy adults, a 2018 Cochrane review showed that vaccines reduced the incidence of lab-confirmed influenza from 2.3% to 0.9%, which constitutes a reduction of risk of approximately 60%. However, for influenza-like illness which is defined as the same symptoms of cough, fever, headache, runny nose, and bodily aches and pains, vaccine reduced the risk from 21.5% to 18.1%. This constitutes a much more modest reduction of risk of approximately 16%. The difference is most probably explained by the fact that over 200 viruses cause the same or similar symptoms as the flu virus. Another review looked at the effect of short and long term exercise before the vaccine, however, no benefits or harms were recorded.
+
+The cost-effectiveness of seasonal influenza vaccination has been widely evaluated for different groups and in different settings. It has generally been found to be a cost-effective intervention, especially in children and the elderly, however the results of economic evaluations of influenza vaccination have often been found to be dependent on key assumptions.
+
+
+2)INFECTION CONTROL:-
+These are the main ways that influenza spreads
+
+by direct transmission (when an infected person sneezes mucus directly into the eyes, nose or mouth of another person);
+the airborne route (when someone inhales the aerosols produced by an infected person coughing, sneezing or spitting);
+through hand-to-eye, hand-to-nose, or hand-to-mouth transmission, either from contaminated surfaces or from direct personal contact such as a hand-shake.
+Reasonably effective ways to reduce the transmission of influenza include good personal health and hygiene habits such as: not touching the eyes, nose or mouth; frequent hand washing (with soap and water, or with alcohol-based hand rubs); covering coughs and sneezes; avoiding close contact with sick people; and staying home when sick. Avoiding spitting is also recommended. Although face masks might help prevent transmission when caring for the sick, there is mixed evidence on beneficial effects in the community. Smoking raises the risk of contracting influenza, as well as producing more severe disease symptoms.
+
+Since influenza spreads through both aerosols and contact with contaminated surfaces, surface sanitizing may help prevent some infections. Alcohol is an effective sanitizer against influenza viruses, while quaternary ammonium compounds can be used with alcohol so that the sanitizing effect lasts for longer. In hospitals, quaternary ammonium compounds and bleach are used to sanitize rooms or equipment that have been occupied by people with influenza symptoms. At home, this can be done effectively with a diluted chlorine bleach.
+
+Social distancing strategies used during past pandemics, such as closing schools, churches and theaters, slowed the spread of the virus but did not have a large effect on the overall death rate. It is uncertain if reducing public gatherings, by for example closing schools and workplaces, will reduce transmission since people with influenza may just be moved from one area to another; such measures would also be difficult to enforce and might be unpopular. When small numbers of people are infected, isolating the sick might reduce the risk of transmission.</value>
+  </data>
+  <data name="RichTextBox_symptoms.Text" xml:space="preserve">
+    <value>SYMPTOMS:-
+Symptoms of influenza
+&gt;Fever and chills
+&gt;Cough
+&gt;Nasal congestion
+&gt;Runny nose
+&gt;Sore throat
+&gt;Hoarseness
+&gt;Earache
+&gt;Muscle pains
+&gt;Fatigue
+vHeadache
+&gt;Irritated, watering eyes
+&gt;Reddened eyes, skin (especially face), mouth, throat and nose
+&gt;Petechial rash
+In children, gastrointestinal symptoms such as vomiting, diarrhea, and abdominal pain (may be severe in children with influenza B)
+It can be difficult to distinguish between the common cold and influenza in the early stages of these infections. Influenza symptoms are a mixture of symptoms of common cold and pneumonia, body ache, headache, and fatigue. Diarrhea is not usually a symptom of influenza in adults, although it has been seen in some human cases of the H5N1 "bird flu" and can be a symptom in children. The symptoms most reliably seen in influenza are shown in the adjacent table.
+
+The specific combination of fever and cough has been found to be the best predictor; diagnostic accuracy increases with a body temperature above 38 °C (100.4 °F). Two decision analysis studies suggest that during local outbreaks of influenza, the prevalence will be over 70%. Even in the absence of a local outbreak, diagnosis may be justified in the elderly during the influenza season as long as the prevalence is over 15%.
+
+The United States Centers for Disease Control and Prevention (CDC) maintains an up-to-date summary of available laboratory tests. According to the CDC, rapid diagnostic tests have a sensitivity of 50–75% and specificity of 90–95% when compared with viral culture.
+
+Occasionally, influenza can cause severe illness including primary viral pneumonia or secondary bacterial pneumonia. The obvious symptom is trouble breathing. In addition, if a child (or presumably an adult) seems to be getting better and then relapses with a high fever, that is a danger sign since this relapse can be bacterial pneumonia.
+
+Sometimes, influenza may have abnormal presentations, like confusion in the elderly and a sepsis-like syndrome in the young.</value>
+  </data>
+  <data name="RichTextBox_treatment.Text" xml:space="preserve">
+    <value>TREATMENT:-
+People with the flu are advised to get plenty of rest, drink plenty of liquids, avoid using alcohol and tobacco and, if necessary, take medications such as acetaminophen (paracetamol) to relieve the fever and muscle aches associated with the flu. In contrast, there is not enough evidence to support corticosteroids as additional therapy for influenza. It is advised to avoid close contact with others to prevent spread of infection. Children and teenagers with flu symptoms (particularly fever) should avoid taking aspirin during an influenza infection (especially influenza type B), because doing so can lead to Reye's syndrome, a rare but potentially fatal disease of the liver. Since influenza is caused by a virus, antibiotics have no effect on the infection; unless prescribed for secondary infections such as bacterial pneumonia. Antiviral medication may be effective, if given early (within 48 hours to first symptoms), but some strains of influenza can show resistance to the standard antiviral drugs and there is concern about the quality of the research. High-risk individuals such as young children, pregnant women, the elderly, and those with compromised immune systems should visit the doctor for antiviral drugs. Those with the emergency warning signs should visit the emergency room at once.
+Antivirals
+The two classes of antiviral drugs used against influenza are neuraminidase inhibitors (oseltamivir, zanamivir, laninamivir and peramivir) and M2 protein inhibitors (adamantane derivatives).
+
+Neuraminidase inhibitors
+Overall the benefits of neuraminidase inhibitors in those who are otherwise healthy do not appear to be greater than the risks.There does not appear to be any benefit in those with other health problems.In those believed to have the flu, they decreased the length of time symptoms were present by slightly less than a day but did not appear to affect the risk of complications such as needing hospitalization or pneumonia.Increasingly prevalent resistance to neuraminidase inhibitors has led to researchers to seek alternative antiviral drugs with different mechanisms of action.
+
+M2 inhibitors
+The antiviral drugs amantadine and rimantadine inhibit a viral ion channel (M2 protein), thus inhibiting replication of the influenza A virus.These drugs are sometimes effective against influenza A if given early in the infection but are ineffective against influenza B viruses, which lack the M2 drug target. Measured resistance to amantadine and rimantadine in American isolates of H3N2 has increased to 91% in 2005. This high level of resistance may be due to the easy availability of amantadines as part of over-the-counter cold remedies in countries such as China and Russia, and their use to prevent outbreaks of influenza in farmed poultry. The CDC recommended against using M2 inhibitors during the 2005–06 influenza season due to high levels of drug resistance.</value>
+  </data>
+  <data name="RichTextBox_Causes.Text" xml:space="preserve">
+    <value>CAUSES:-
+The flu is caused by influenza viruses that infect the nose, throat, and lungs. These viruses spread when people with flu cough, sneeze or talk, sending droplets with the virus into the air and potentially into the mouths or noses of people who are nearby. You can also get flu by touching a surface or object that has flu virus on it and then touching your own mouth, eyes or nose.
+
+You can spread the flu before you know you are sick, beginning 1 day before symptoms develop and up to 5 to 7 days after becoming sick. Some people, especially young children and people with weakened immune systems, might be able to infect others for an even longer time.</value>
+  </data>
+  <data name="RichTextBox_other.Text" xml:space="preserve">
+    <value>Virology
+In virus classification, influenza viruses are RNA viruses that make up four of the seven genera of the family Orthomyxoviridae:
+
+Influenzavirus A
+Influenzavirus B
+Influenzavirus C
+Influenzavirus D
+These viruses are only distantly related to the human parainfluenza viruses, which are RNA viruses belonging to the paramyxovirus family that are a common cause of respiratory infections in children such as croup, but can also cause a disease similar to influenza in adults.
+
+A fourth family of influenza viruses was identified in 2016 – Influenza D. The type species for this family is Influenza D virus, which was first isolated in 2011.
+Influenzavirus A
+This genus has one species, influenza A virus. Wild aquatic birds are the natural hosts for a large variety of influenza A. Occasionally, viruses are transmitted to other species and may then cause devastating outbreaks in domestic poultry or give rise to human influenza pandemics. The influenza A virus can be subdivided into different serotypes based on the antibody response to these viruses. The serotypes that have been confirmed in humans are:
+
+H1N1, which caused Spanish flu in 1918, and Swine Flu in 2009
+H2N2, which caused Asian Flu in 1957
+H3N2, which caused Hong Kong Flu in 1968
+H5N1, which caused Bird Flu in 2004
+H7N7, which has unusual zoonotic potential
+H1N2, endemic in humans, pigs and birds
+H9N2
+H7N2
+H7N3
+H10N7
+H7N9, rated in 2018 as having the greatest pandemic potential among the Type A subtypes
+H6N1, which only infected one person, who recovered
+Influenzavirus B
+
+Influenza virus nomenclature (for a Fujian flu virus)
+This genus has one species, influenza B virus. Influenza B almost exclusively infects humans and is less common than influenza A. The only other animals known to be susceptible to influenza B infection are seals and ferrets. This type of influenza mutates at a rate 2–3 times slower than type A and consequently is less genetically diverse, with only one influenza B serotype. As a result of this lack of antigenic diversity, a degree of immunity to influenza B is usually acquired at an early age. However, influenza B mutates enough that lasting immunity is not possible. This reduced rate of antigenic change, combined with its limited host range (inhibiting cross species antigenic shift), ensures that pandemics of influenza B do not occur.
+
+Influenzavirus C
+This genus has one species, influenza C virus, which infects humans, dogs and pigs, sometimes causing both severe illness and local epidemics. However, influenza C is less common than the other types and usually only causes mild disease in children.
+
+Influenzavirus D
+This genus has only one species, influenza D virus, which infects pigs and cattle. The virus has the potential to infect humans, although no such cases have been observed yet.
+Structure, properties, and subtype nomenclature
+Influenzaviruses A, B, C, and D are very similar in overall structure. The virus particle (also called the virion) is 80–120 nanometers in diameter such that the smallest virions adopt an elliptical shape. The length of each particle varies considerably, owing to the fact that influenza is pleomorphic, and can be in excess of many tens of micrometers, producing filamentous virions. However, despite these varied shapes, the viral particles of all influenza viruses are similar in composition. These are made of a viral envelope containing the glycoproteins hemagglutinin and neuraminidase wrapped around a central core. The central core contains the viral RNA genome and other viral proteins that package and protect this RNA. RNA tends to be single stranded but in special cases it is double. Unusually for a virus, its genome is not a single piece of nucleic acid; instead, it contains seven or eight pieces of segmented negative-sense RNA, each piece of RNA containing either one or two genes, which code for a gene product (protein). For example, the influenza A genome contains 11 genes on eight pieces of RNA, encoding for 11 proteins: hemagglutinin (HA), neuraminidase (NA), nucleoprotein (NP), M1 (matrix 1 protein), M2, NS1 (non-structural protein 1), NS2 (other name is NEP, nuclear export protein), PA, PB1 (polymerase basic 1), PB1-F2 and PB2.
+
+Hemagglutinin (HA) and neuraminidase (NA) are the two large glycoproteins on the outside of the viral particles. HA is a lectin that mediates binding of the virus to target cells and entry of the viral genome into the target cell, while NA is involved in the release of progeny virus from infected cells, by cleaving sugars that bind the mature viral particles. Thus, these proteins are targets for antiviral medications. Furthermore, they are antigens to which antibodies can be raised. Influenza A viruses are classified into subtypes based on antibody responses to HA and NA. These different types of HA and NA form the basis of the H and N distinctions in, for example, H5N1. There are 18 H and 11 N subtypes known, but only H 1, 2 and 3, and N 1 and 2 are commonly found in humans.
+
+Replication
+
+Host cell invasion and replication by the influenza virus. The steps in this process are discussed in the text.
+Viruses can replicate only in living cells. Influenza infection and replication is a multi-step process: First, the virus has to bind to and enter the cell, then deliver its genome to a site where it can produce new copies of viral proteins and RNA, assemble these components into new viral particles, and, last, exit the host cell.
+
+Influenza viruses bind through hemagglutinin onto sialic acid sugars on the surfaces of epithelial cells, typically in the nose, throat, and lungs of mammals, and intestines of birds (Stage 1 in infection figure). After the hemagglutinin is cleaved by a protease, the cell imports the virus by endocytosis.
+
+The intracellular details are still being elucidated. It is known that virions converge to the microtubule organizing center, interact with acidic endosomes and finally enter the target endosomes for genome release.
+
+Once inside the cell, the acidic conditions in the endosome cause two events to happen: First, part of the hemagglutinin protein fuses the viral envelope with the vacuole's membrane, then the M2 ion channel allows protons to move through the viral envelope and acidify the core of the virus, which causes the core to disassemble and release the viral RNA and core proteins. The viral RNA (vRNA) molecules, accessory proteins and RNA-dependent RNA polymerase are then released into the cytoplasm (Stage 2). The M2 ion channel is blocked by amantadine drugs, preventing infection.
+
+These core proteins and vRNA form a complex that is transported into the cell nucleus, where the RNA-dependent RNA polymerase begins transcribing complementary positive-sense vRNA (Steps 3a and b). The vRNA either is exported into the cytoplasm and translated (step 4) or remains in the nucleus. Newly synthesized viral proteins are either secreted through the Golgi apparatus onto the cell surface (in the case of neuraminidase and hemagglutinin, step 5b) or transported back into the nucleus to bind vRNA and form new viral genome particles (step 5a). Other viral proteins have multiple actions in the host cell, including degrading cellular mRNA and using the released nucleotides for vRNA synthesis and also inhibiting translation of host-cell mRNAs.
+
+Negative-sense vRNAs that form the genomes of future viruses, RNA-dependent RNA polymerase, and other viral proteins are assembled into a virion. Hemagglutinin and neuraminidase molecules cluster into a bulge in the cell membrane. The vRNA and viral core proteins leave the nucleus and enter this membrane protrusion (step 6). The mature virus buds off from the cell in a sphere of host phospholipid membrane, acquiring hemagglutinin and neuraminidase with this membrane coat (step 7). As before, the viruses adhere to the cell through hemagglutinin; the mature viruses detach once their neuraminidase has cleaved sialic acid residues from the host cell. After the release of new influenza viruses, the host cell dies.
+
+Because of the absence of RNA proofreading enzymes, the RNA-dependent RNA polymerase that copies the viral genome makes an error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, the majority of newly manufactured influenza viruses are mutants; this causes antigenic drift, which is a slow change in the antigens on the viral surface over time. The separation of the genome into eight separate segments of vRNA allows mixing or reassortment of vRNAs if more than one type of influenza virus infects a single cell. The resulting rapid change in viral genetics produces antigenic shifts, which are sudden changes from one antigen to another. These sudden large changes allow the virus to infect new host species and quickly overcome protective immunity. This is important in the emergence of pandemics, as discussed below in the section on epidemiology.
+
+
+
+
+
+Mechanism
+Transmission
+When an infected person sneezes or coughs more than half a million virus particles can be spread to those close by.In otherwise healthy adults, influenza virus shedding (the time during which a person might be infectious to another person) increases sharply one-half to one day after infection, peaks on day 2 and persists for an average total duration of 5 days—but can persist as long as 9 days.In those who develop symptoms from experimental infection (only 67% of healthy experimentally infected individuals), symptoms and viral shedding show a similar pattern, but with viral shedding preceding illness by one day.Children are much more infectious than adults and shed virus from just before they develop symptoms until two weeks after infection.In immunocompromised people, viral shedding can continue for longer than two weeks.
+Influenza can be spread in three main ways:by direct transmission (when an infected person sneezes mucus directly into the eyes, nose or mouth of another person); the airborne route (when someone inhales the aerosols produced by an infected person coughing, sneezing or spitting) and through hand-to-eye, hand-to-nose, or hand-to-mouth transmission, either from contaminated surfaces or from direct personal contact such as a handshake. The relative importance of these three modes of transmission is unclear, and they may all contribute to the spread of the virus.n the airborne route, the droplets that are small enough for people to inhale are 0.5 to 5 μm in diameter and inhaling just one droplet might be enough to cause an infection.Although a single sneeze releases up to 40,000 droplets,most of these droplets are quite large and will quickly settle out of the air.How long influenza survives in airborne droplets seems to be influenced by the levels of humidity and UV radiation, with low humidity and a lack of sunlight in winter aiding its survival;ideal conditions can allow it to live for an hour in the atmosphere.
+As the influenza virus can persist outside of the body, it can also be transmitted by contaminated surfaces such as banknotes,doorknobs, light switches and other household items.The length of time the virus will persist on a surface varies, with the virus surviving for one to two days on hard, non-porous surfaces such as plastic or metal, for about fifteen minutes on dry paper tissues, and only five minutes on skin.However, if the virus is present in mucus, this can protect it for longer periods (up to 17 days on banknotes).Avian influenza viruses can survive indefinitely when frozen. They are inactivated by heating to 56 °C (133 °F) for a minimum of 60 minutes, as well as by acids (at pH &lt;2).
+
+Pathophysiology
+
+The different sites of infection (shown in red) of seasonal H1N1 versus avian H5N1. This influences their lethality and ability to spread.
+The mechanisms by which influenza infection causes symptoms in humans have been studied intensively. One of the mechanisms is believed to be the inhibition of adrenocorticotropic hormone (ACTH) resulting in lowered cortisol levels. Knowing which genes are carried by a particular strain can help predict how well it will infect humans and how severe this infection will be (that is, predict the strain's pathophysiology).
+
+For instance, part of the process that allows influenza viruses to invade cells is the cleavage of the viral hemagglutinin protein by any one of several human proteases.In mild and avirulent viruses, the structure of the hemagglutinin means that it can only be cleaved by proteases found in the throat and lungs, so these viruses cannot infect other tissues. However, in highly virulent strains, such as H5N1, the hemagglutinin can be cleaved by a wide variety of proteases, allowing the virus to spread throughout the body.
+
+The viral hemagglutinin protein is responsible for determining both which species a strain can infect and where in the human respiratory tract a strain of influenza will bind. Strains that are easily transmitted between people have hemagglutinin proteins that bind to receptors in the upper part of the respiratory tract, such as in the nose, throat and mouth. In contrast, the highly lethal H5N1 strain binds to receptors that are mostly found deep in the lungs. This difference in the site of infection may be part of the reason why the H5N1 strain causes severe viral pneumonia in the lungs, but is not easily transmitted by people coughing and sneezing.
+
+Common symptoms of the flu such as fever, headaches, and fatigue are the result of the huge amounts of proinflammatory cytokines and chemokines (such as interferon or tumor necrosis factor) produced from influenza-infected cells. In contrast to the rhinovirus that causes the common cold, influenza does cause tissue damage, so symptoms are not entirely due to the inflammatory response. This massive immune response might produce a life-threatening cytokine storm. This effect has been proposed to be the cause of the unusual lethality of both the H5N1 avian influenza, and the 1918 pandemic strain. However, another possibility is that these large amounts of cytokines are just a result of the massive levels of viral replication produced by these strains, and the immune response does not itself contribute to the disease. Influenza appears to trigger programmed cell death (apoptosis).</value>
+  </data>
+</root>
